@@ -18,12 +18,19 @@ The network is trained using the Bellman equation — rewarding food (+10) and p
 ## How To Run
 
 **Install dependencies:**
+```
 pip install pygame torch numpy matplotlib ipython
+```
 
 **Train the agent:**
+```
 python agent.py
+```
 
+**Watch a trained game:**
+```
 python test_snake.py
+```
 
 ## Project Structure
 - `snake_game.py` — the Snake game environment
