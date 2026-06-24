@@ -30,7 +30,7 @@ python test_snake.py
 - `agent.py` — the DQN agent and training loop
 - `model.py` — the neural network and trainer
 - `plot.py` — live training graph
-- `test_snake.py` — watch the trained agent play
+- `test_game.py` — watch the trained agent play
 
 ## Built With
 - Python
